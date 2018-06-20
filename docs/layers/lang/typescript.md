@@ -33,7 +33,7 @@ npm install -g typescript
 - viewing documentation
 - type-signature
 - goto definition
-- refernce finder
+- reference finder
 
 ## Layer configuration
 
